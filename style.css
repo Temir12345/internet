@@ -22,3 +22,20 @@ body{
 .menu a:hover{
     text-decoration: none;
 }
+.link{
+    text-align: center;
+}
+.link a{
+    background-color: red;
+    color: white;
+    padding: 5px 3px;
+}
+.link a:hover{
+    background-color: green;
+    color: yellow;
+}
+.box{
+    border: 3px solid red;
+    padding: 20px;
+    margin: 50px 0px;
+}
