@@ -1,0 +1,24 @@
+img{
+    width: 100%;
+}
+.block{
+    width: 700px;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+
+}
+body{
+    background-image: url("https://img.freepik.com/free-photo/landscape-of-morning-fog-and-mountains-with-hot-air-balloons-at-sunrise_335224-794.jpg?w=996&t=st=1708073415~exp=1708074015~hmac=4bac0144ce45fc3915ad658a3703d3fd1adae7ddfbcd16e272ca54648c8b7adf");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.menu a{
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+}
+.menu a:hover{
+    text-decoration: none;
+}
